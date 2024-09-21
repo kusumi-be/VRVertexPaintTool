@@ -7,6 +7,7 @@ Unity + Meta XR SDK環境において、ハンドトラッキングでオブジ�
 # 実行例
 人指し指で色を塗る設定で動かした場合
 <video controls src="2024-09-07 03-51-40.mp4" title="Title"></video>
+<div><video controls src="<!2024-09-07 03-51-40.mp4>" muted="false"></video></div>
 
 # 使い方
 ## PaintToolの使い方

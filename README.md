@@ -39,5 +39,4 @@ PinchInをONにすると、PinchInで色を塗れます。
 ![alt text](GestureManager.png)
 
 ### Tag
-色を塗りたいオブジェクトのTagは、Untagged, Yellow, Brown, Greenのどれかにしてください  
-Yellow, Brown, Green Tagのオブジェクトは、Cheese, Baguette, Wineに触ったときだけ色塗りできます。
+色を塗りたいオブジェクトのTagは、Untaggedにしてください。

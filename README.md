@@ -32,9 +32,9 @@ play modeで"Apply Settings"を押さないと反映されません。
 ![alt text](SetColor2White.png)
 
 ### GestureManager
-PointをONにすると、指さすことで色を塗れます。  
-PinchInをONにすると、PinchInで色を塗れます。  
-どちらもOFFにすると、常に色を塗れます。  
+PointをONにすると、人差し指で指さすことで色を塗れるようになります。  
+PinchInをONにすると、ピンチインで色を塗れるようになります。  
+どちらもOFFにすると、手の形にかかわらず常に色を塗れるようになります。  
 使う前に、HandとFingerFeatureStateProviderを設定してください。  
 ![alt text](GestureManager.png)
 
